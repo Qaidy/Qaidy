@@ -12,7 +12,7 @@
 
 ### 🙋‍♂️ About Me
 
-- 🎓 Still learning — and loving every bit of it
+- 🎓 Still learning and loving every bit of it
 - 💻 I dabble in **web & mobile development**
 - 🌱 Currently leveling up my **Laravel** & **Flutter** skills
 

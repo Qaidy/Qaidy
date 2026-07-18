@@ -50,9 +50,9 @@
 ### 📬 Let's Connect!
 
 <p align="left">
-  <a href="https://qaidy.netlify.app/" target="_blank">
+  <!-- <a href="https://qaidy.netlify.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=netlify&logoColor=white"/>
-  </a>
+  </a> -->
   <a href="https://www.linkedin.com/in/qaidy-rasyid-810633376/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>

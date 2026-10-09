@@ -1,4 +1,4 @@
-<h2 align="center">Qaidy Rasyid</h2>
+<h2 align="center">Qaidy Rasyid Hidayat</h2>
 <p align="center">Fullstack Developer | Mobile Developer</p>
 
 ---

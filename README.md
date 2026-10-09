@@ -1,5 +1,9 @@
-<h2 align="center">Qaidy Rasyid Hidayat</h2>
+<h1 align="center">Qaidy Rasyid Hidayat</h1>
 <p align="center">Fullstack Developer | Mobile Developer</p>
+
+<p align="center">
+  <em>"First, solve the problem. Then, write the code." – John Johnson</em>
+</p>
 
 ---
 
